@@ -10,7 +10,7 @@ In parallel computing, a circular $q$-shift is a fundamental permutation operati
 This application allows you to configure $p$ and $q$, and step through these two stages via animated visualizations.
 
 ## Live Deployment
-- **URL**: [Insert Live Deployment URL here]
+- **URL**: [https://mesh-shift-visualizer-gamma.vercel.app/](https://mesh-shift-visualizer-gamma.vercel.app/)
 
 ## Setup & Running Locally
 
