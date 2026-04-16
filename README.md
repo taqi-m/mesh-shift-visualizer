@@ -40,3 +40,14 @@ This application allows you to configure $p$ and $q$, and step through these two
 - React (Vite)
 - Tailwind CSS
 - Vanilla JS (Logic)
+
+## Screenshots
+
+**Initial State**  
+![Initial Stage](screenshots/initial-stage.png)
+
+**Mid-Animation (After Stage 1 / Row Shift)**  
+![After Stage 1](screenshots/after-stage-1.png)
+
+**Final State (After Stage 2 / Column Shift)**  
+![Full Completed State](screenshots/after-stage-2.png)
